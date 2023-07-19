@@ -1,0 +1,21 @@
+
+	body {
+		background-color: transparent;
+		text-align: center;
+		color: white;
+		background-image: url(Deep_Grand_Reef_Biome.png);
+	}
+
+	img {
+		border-radius: 10000px;
+		max-height: 500px;
+	}
+
+	p {
+		text-align: center;
+	}
+	.content {
+		width: 700px;
+		margin: auto;
+	}
+	

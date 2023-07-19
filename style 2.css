@@ -1,0 +1,22 @@
+body {
+		background-color: transparent;
+		text-align: center;
+		color: white;
+		background-image: url(BloodKelpCavesInfoboxTrue.png);
+	}
+		.content
+	{
+		width: 500px;
+		margin: auto;
+		background-color: transparent;
+	}
+
+	p{
+		color: white;
+	}
+
+	img {
+		max-width: 50%;
+		border-radius: 1000px;
+		margin: auto;
+	}
